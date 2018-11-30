@@ -9,5 +9,8 @@ Install the following in the given order
 ➡ gensim
 
 
-IMPORTANT!!!
-Comment out all GPU code. I ran this on paperspace, your machine will be fried if it lacks an Nvidia GPU.
+**IMPORTANT!!!**
+
+**Comment out all GPU code.** 
+
+I ran this on paperspace, your machine will be fried if it lacks an Nvidia GPU
