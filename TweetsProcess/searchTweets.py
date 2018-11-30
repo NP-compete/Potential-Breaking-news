@@ -13,10 +13,10 @@ def SearchTweets(searchkey, round):
 		
         # it's about time to create a TwitterSearch object with our secret tokens
         ts = TwitterSearch(
-            consumer_key='sToxW29MQSeHNGMHkLJd4upux?',
-            consumer_secret='5BbJoy8pRx3WvvI5zZD09YFpHmUaXiPl2AoNCSCPqS37oVKEI1?',
-            access_token='798172108010508288-ZKwC04JG1BaT65BhFyi792yA7HadGIK?',
-            access_token_secret='nEDYhL7NNzXpaJgwtgJJ9ipJMrLm2IqUwNJJY0Xk6Yc2P?'
+            consumer_key='',
+            consumer_secret='',
+            access_token='',
+            access_token_secret=''
         )
         filename = searchkey + '_' +  str(round)
         fieldnames = ['category','user', 'tweet', 'time']
