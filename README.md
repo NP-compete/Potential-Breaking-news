@@ -1,9 +1,9 @@
 Install the following in the given order
 
-numpy
-mkl
-scipy
-gensim
+➡ numpy
+➡ mkl
+➡ scipy
+➡ gensim
 
 
 IMPORTANT!!!
