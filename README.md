@@ -1,14 +1,3 @@
-Install the following in the given order
-
-➡ numpy
-
-➡ mkl
-
-➡ scipy
-
-➡ gensim
-
-
 **IMPORTANT!!!**
 
 **Comment out all GPU code.** 
